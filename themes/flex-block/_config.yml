@@ -1,0 +1,68 @@
+# Header
+menu:
+  首頁: /
+
+# 主页banner图
+banner: https://qiniu.sukoshi.xyz/src/images/68686407_p0.jpg
+
+# 站點通知信息
+notice: 
+
+# 作者信息
+author:
+  name: Eric Hsieh
+  avatar: https://member.ithome.com.tw/avatars/129242
+  description: 放棄只要一句話，堅持卻要一輩子
+
+toc:
+  max_depth: 3 # 生成 TOC 的最大深度
+  min_depth: 2 # 生成 TOC 的最小深度
+
+comments:
+  enable: false
+  use: 'disqus' # valine || disqus
+  # docs: https://disqus.com/
+  disqus:
+    website: ShiningSirius
+    error: 評論死掉了，能發個PR救救他嗎
+
+# dplayer 视频播放
+# docs: http://dplayer.js.org/#/zh-Hans/
+dplayer:
+  enable: false
+  theme: "#b7daff"
+  autoplay: false
+  loop: false
+  mutex: true
+
+# aplayer 音频播放
+# docs: https://aplayer.js.org/#/zh-Hans/
+aplayer:
+  enable: false
+  theme: "#b7daff"
+  autoplay: false
+  loop: false
+  mutex: true
+  lrcType: 3
+
+# 谷歌分析
+google_analytics: 
+# gauges分析
+gauges_analytics: 
+# 百度分析
+baidu_analytics: 
+# 腾讯分析
+tencent_analytics: 
+# 站点ico
+favicon: /favicon.ico
+
+
+# Social Icon
+social_icon:
+  enable: true
+  icons:
+    ins     :
+    zhihu   :
+    weibo   : 
+    github  : https://github.com/peace920902
+    twitter : 
